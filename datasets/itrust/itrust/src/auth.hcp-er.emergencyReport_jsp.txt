@@ -1,0 +1,1 @@
+name age gender emergency contact allergies no allergies on record blood type diagnoses no critical diagnoses on record prescriptions no current prescriptions on record immunizations no immunizations on record

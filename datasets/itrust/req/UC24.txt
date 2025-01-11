@@ -1,0 +1,6 @@
+take satisfaction survey a patient or personal health representative can answer any of the following questions relative to a previous (in uc9, s1) office visit according to data format 6.13.
+how many minutes did you wait in the waiting room?
+how many minutes did you wait in the examination room before seeing your physician?
+how satisfied were you with your office visit?
+how satisfied were you with the treatment or information you received?
+the answers to the survey are stored.

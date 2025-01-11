@@ -1,0 +1,1 @@
+view prescription report a patient or personal health representative [s1] or lhcp [s2] chooses to view prescription reports [s3]. if the lhcp is not one of the patient's dlhcp or the uap associated with one of their dlhcp, a message is sent to the patient and their personal representative.

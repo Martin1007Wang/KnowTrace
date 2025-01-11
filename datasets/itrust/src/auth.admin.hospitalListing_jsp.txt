@@ -1,0 +1,1 @@
+function fill update id  document get element by id hospital id value  id document get element by id hospital name value  unescape document get element by id upd  id value document get element by id old descrip value  unescape document get element by id upd  id value  hospital listing update hospital list hospital id hospital name current hospitals hospital id hospital name

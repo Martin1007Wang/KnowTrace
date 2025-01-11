@@ -1,0 +1,1 @@
+view patients the lhcp chooses to view all patients with which he or she has ever had an office visit with. the patient’s name (clickable to view phr), address, and date of last office visit are displayed. the list is sorted by the date of the last office visit (most recent first).

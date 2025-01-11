@@ -1,0 +1,1 @@
+please indicate which data should be allowed to enter blood pressure glucose level height weight pedometer please indicate which data should be allowed to enter blood pressure glucose level height weight pedometer function different patient  document get elements by name confirm action 0 value false document forms 0 submit 

@@ -1,0 +1,1 @@
+view hcp; designate/undesignate designated licensed health care professional the patient chooses to view all lhcps the patient has ever had an office visit with and those whom he/she had designated [s1, s2]. the patient can also add a lhcp to their provider list by searching for the name and/or specialty of a lhcp [s3] and then selecting to add the hcp to their list of providers.

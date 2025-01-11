@@ -1,0 +1,1 @@
+create, disable, and edit personnel an admin creates a lhcp, an er, a laboratory technician (lt), or a public health agent (pha) [s1]. a lhcp creates uaps [s2]. once entered, the admin or lhcp is presented a detailed confirmation screen to approve [e2].

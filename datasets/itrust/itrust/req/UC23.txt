@@ -1,0 +1,1 @@
+view comprehensive patient report the lhcp requests a comprehensive patient report for a particular patient [s1]. the lhcp is able to view the comprehensive patient report [s2] from a list of his/her previous requests [s3].

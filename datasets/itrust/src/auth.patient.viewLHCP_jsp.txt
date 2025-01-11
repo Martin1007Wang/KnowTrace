@@ -1,0 +1,1 @@
+function remove hcp hcpid form id  document get element by id remove id value  hcpid document get element by id form id submit  specialty address phone email

@@ -1,0 +1,7 @@
+find lhcps with experience with a diagnosis a patient has just been diagnosed with a condition and wants to find the lhcps in the area who have handled that condition. the patient chooses 'my diagnoses” and is presented with a listing of all their own diagnoses, sorted by diagnosis date (more recent first). the patient can select a diagnosis and will be presented with the lhcps in the patient's living area (based upon the first three numbers of their zip code) who have handled this diagnosis in the last three years. the list is ranked by the quantity of patients the lhcp has treated for that diagnosis (each patient is only counted once regardless of the number of office visits). for each lhcp, the following information is displayed:
+name of lhcp linked to contact information for that lhcp
+the quantity of unique patients treated by that lhcp for that diagnosis (each patient is only counted once regardless of the number of office visits)
+list of all prescriptions given by that lhcp for that diagnosis
+list of all laboratory procedures ordered by that lhcp for that diagnosis
+the lchp's average visit satisfaction
+the lhcp's average treatment satisfaction

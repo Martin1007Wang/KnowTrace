@@ -1,0 +1,1 @@
+systolic and diastolic blood pressure must be submitted together information successfully added invalid entry  please enter a whole number invalid entry systolic blood pressure diastolic blood pressure glucose level height weight pedometer reading nbsp you are not authorized to report any telemedicine data for this patient

@@ -1,0 +1,1 @@
+function show bar chart id  id  id substring 5 id index of button window open barchart jsp id  id barchart width 300 height 300 resizable yes  reporter date details reports by month no adverse events reported document get element by id chart row span    invalid patient id get details view chart document get element by id chart row span   start date end date

@@ -1,0 +1,1 @@
+document office visit an hcp chooses to document [s2] or edit [s3] an office visit for a patient [s1].

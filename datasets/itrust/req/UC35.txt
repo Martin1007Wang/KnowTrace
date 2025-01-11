@@ -1,0 +1,1 @@
+report adverse event a patient selects to report an event related to a prescription drug [s1] or immunization [s2] reaction.

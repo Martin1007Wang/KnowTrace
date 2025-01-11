@@ -1,0 +1,1 @@
+create and deactivate patients an hcp is able to create a patient [s1] or disable a selected patient [s2]. the create/disable patients and hcp transaction is logged (uc5).

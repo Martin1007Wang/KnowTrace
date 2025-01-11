@@ -1,0 +1,1 @@
+maintain drug interaction the administrator records [s1] or deletes [s2] a drug interaction between two prescription drugs.

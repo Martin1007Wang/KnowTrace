@@ -1,0 +1,1 @@
+maintain a hospital listing an administrator chooses to maintain the hospital listing [s1].(note: a personnel may be assigned to more than one (uc 2, s1))

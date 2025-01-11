@@ -1,0 +1,1 @@
+enter/edit demographics demographic information is entered and/or edited [s1, s2, s3, s4]. the user is presented with a success or failure message and the form is updated so that the user may correct the form or add more information.

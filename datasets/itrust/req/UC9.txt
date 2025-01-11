@@ -1,0 +1,1 @@
+view records a patient or personal health representative chooses to view medical records [s1] including family history [s2].

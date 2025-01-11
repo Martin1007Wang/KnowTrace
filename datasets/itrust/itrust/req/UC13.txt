@@ -1,0 +1,1 @@
+declare/undeclare personal representative the hcp selects a patient by typing in the mid of the patient [e1]. the hcp can choose to add or remove another registered user as a personal health representative to that patient.

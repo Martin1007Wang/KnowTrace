@@ -1,0 +1,1 @@
+enter/edit personal health records an hcp chooses to enter/edit personal health information for a patient [s1]. the information is viewed/edited by the hcp [s2].

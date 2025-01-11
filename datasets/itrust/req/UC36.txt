@@ -1,0 +1,1 @@
+monitor adverse event a public health agent (pha) selects a specific time period for which he/she would like to see a detailed listing of all adverse events related to prescription drugs [s1] or immunizations [s2] or to see trends in adverse events related to prescription drugs [s4] or immunizations [s5].

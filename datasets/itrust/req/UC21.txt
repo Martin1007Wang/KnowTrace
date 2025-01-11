@@ -1,0 +1,10 @@
+view emergency electronic health record a lhcp or er chooses to view an emergency report and provides an mid [e1]. the lhcp/er is presented with a patient confirmation [e2]. the lhcp obtains a printable report [meaning you should minimize the space taken up to provide the information] containing vital information for the patient:
+name
+age
+gender
+emergency contact (name and phone number)
+allergies
+blood type
+a list of all diagnosis codes chronic/long-term diagnoses for the patient and well as all short term diagnoses made within the last 30 days. display the icd-9cm code and the name of the diagnoses. sort by most recent first.
+a list of all prescriptions the patient is likely to be currently taking as determined by the end date of the prescription has passed by 91 days or less. display the national drug code and the name of the prescription. sort by most recent first.
+a list of all immunizations the patient has had. display the cpt code and the name of the immunization. sort by most recent first.

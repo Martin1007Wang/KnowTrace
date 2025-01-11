@@ -1,0 +1,1 @@
+session timeout changed changes will take place on re authentication change the timeout to minutes minimum 1 the global session timeout is the interval of time that an account can remain inactive without having to re authenticate

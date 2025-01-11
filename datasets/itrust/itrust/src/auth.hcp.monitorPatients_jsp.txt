@@ -1,0 +1,1 @@
+patient physiologic statistics patient date systolic blood pressure diastolic blood pressure glucose level reporter no information provided no information provided patient external statistics patient date height weight pedometer reading reporter no information provided no information provided
